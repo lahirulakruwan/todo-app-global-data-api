@@ -1,0 +1,5 @@
+DATABASE="todo_task_db"
+HOST="localhost"
+PASSWORD="lahiru123;"
+PORT=3306
+USER="root"
